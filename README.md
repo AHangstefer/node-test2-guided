@@ -14,3 +14,5 @@ Guided project for the **Node Testing 2** module.
 - [ ] type `npm run start:watch` to start the API.
 
 Please follow along as the instructor adds automated tests to the API.
+
+// "test": "jest --watch",
